@@ -1,17 +1,18 @@
 ---
 layout: default
 title: About Us
-nav_order: 4
+nav_order: 5
 
 ---
 
-# Principle Investigator:
-* Jake Y. Chen, Ph.D.
+# Project Techinical Lead:
+* Samuel Bharti
 
 # Team Members:
-* Thanh Nguyen
-* Samuel Bharti
-* Zongliang Yue
+* Nikita
+* Arian
+* Maryam
+* ...etc
 
 # Acknowledgement:
 Some information.
@@ -20,10 +21,4 @@ Some information.
 Some information.
 
 # Contact Us
-If you have questions or comments about the SEAS applications, please email Dr. Jake Chen, [jakechen@uab.edu](mailto:jakechen@uab.edu).
-
-
-If you need any technical support, please email Samuel Bharti, [sbharti@uab.edu](mailto:sbharti@uab.edu).
-
-
-Our lab: [AI.MED Laboratory](http://aimed-lab.org/), University of Alabama at Birmingham, Alabama, USA.
+If you have questions, comments or require any technical support about the sMAP, please email Samuel Bharti, [sbharti@uab.edu](mailto:sbharti@uab.edu).

@@ -6,4 +6,4 @@ has_children: true
 
 ---
 
-# SEAS Overview
+# sMAP Overview
