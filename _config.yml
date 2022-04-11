@@ -6,7 +6,8 @@ url: "https://mentorchains.github.io/project-site-template-SA/" # the base hostn
 path_logo_links: "/assets/images/bioinformatics.svg"
 #"/assets/images/hardware-engineering.svg"
 
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+#theme: just-the-docs
 
 permalink: pretty
 exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "package.json", "package-lock.json",  "script/", "LICENSE.txt", "lib/", "bin/", "README.md", "Rakefile"
@@ -47,9 +48,9 @@ search:
 heading_anchors: true
 
 # Aux links for the upper right navigation
-aux_links:
-  "Pathway":
-    - ""
+#aux_links:
+ # "Pathway":
+  #  - ""
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
