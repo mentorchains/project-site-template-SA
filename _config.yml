@@ -1,7 +1,7 @@
 title: sMAP
 description: Standard Microarray Analysis Pipeline
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mentorchains.github.io/project-site-template-SA/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/project-site-template-SA" # the subpath of your site, e.g. /blog
+url: "https://mentorchains.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 path_logo_links: "/assets/images/bioinformatics.svg"
 #"/assets/images/hardware-engineering.svg"
