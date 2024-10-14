@@ -6,6 +6,6 @@ nav_order: 1
 
 ---
 
-## sMAP purpose
+## (Project Title) purpose
 
 Some information

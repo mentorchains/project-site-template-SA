@@ -6,4 +6,6 @@ has_children: true
 
 ---
 
-# Learn Microarray Pipeline with sMAP
+# Learn (Project Application) with (Project Title)
+
+# Please remove/edit all pages under this directory on GitHub as needed. 

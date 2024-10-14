@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Navigating through sMAP
+title: Navigating through (Project Title)
 parent: Overview
 nav_order: 4
 
 ---
 
-## Navigating through sMAP
+## Navigating through (Project Title)
 {: .no_toc }
 
 <details open markdown="block">

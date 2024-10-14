@@ -5,7 +5,7 @@ parent: Overview
 nav_order: 2
 
 ---
-## sMAP session workflow
+## (Project Title) session workflow
 
 
 Some information
