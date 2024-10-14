@@ -6,12 +6,11 @@ nav_order: 5
 ---
 
 # Project Techinical Lead:
-* Samuel Bharti
+* Lead name
 
 # Team Members:
-* Nikita
-* Arian
-* Maryam
+* Person 1
+* Person 2
 * ...etc
 
 # Acknowledgement:
@@ -21,4 +20,4 @@ Some information.
 Some information.
 
 # Contact Us
-If you have questions, comments or require any technical support about the sMAP, please email Samuel Bharti, [sbharti@uab.edu](mailto:sbharti@uab.edu).
+If you have questions, comments or require any technical support about the (Project Title here), please email (Lead Developer or Project Lead), (Lead Email).

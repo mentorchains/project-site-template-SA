@@ -5,9 +5,11 @@ nav_order: 4
 
 ---
 
-#  sMAP Tutorial
+#  (Project Title) Tutorial
 
 ---
+
+# (Example Below, please edit as per your project)
 
 ## AWS Deployment of R Shiny Bioinformatics App 
 > An example of [sMAP: Standard Microarray Analysis Pipeline](https://github.com/BI-STEM-Away/sMAP).

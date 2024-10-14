@@ -6,4 +6,4 @@ has_children: true
 
 ---
 
-# sMAP Overview
+# (Project Title) Overview
